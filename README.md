@@ -1,3 +1,7 @@
+# Ejemplo de Título H1
+## Ejemplo de Titulo H2
+###### Ejemplo Titulo H6
+
 <header>
 
 <!--
