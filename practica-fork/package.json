@@ -1,0 +1,33 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SectionOne/nodejs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.1.0",
+        "body-parser": "^1.20.2",
+        "connect-multiparty": "^2.2.0",
+        "express": "^4.18.2",
+        "jwt-simple": "^0.5.6",
+        "moment": "^2.29.4",
+        "mongoose": "^7.0.3",
+        "mongoose-pagination": "^1.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    },
+    "bugs": {
+        "url": "https://github.com/SectionOne/nodejs/issues"
+    },
+    "homepage": "https://github.com/SectionOne/nodejs#readme"
+}
