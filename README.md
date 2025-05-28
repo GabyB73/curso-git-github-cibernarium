@@ -40,19 +40,19 @@ Durante esta formación he trabajado con Git y GitHub de forma práctica, domina
 
 Cada carpeta contiene una práctica distinta realizada durante el curso:
 
-├── 1-github-actions
+├── 1-github-actions # Automatización con workflows
 
-├── 2-markdown-skills
+├── 2-markdown-skills # Documentación con Markdown
 
-├── 3-plantilla-repo
+├── 3-plantilla-repo # Templates de repositorio
 
-├── 4-practica-clon-repositorio
+├── 4-practica-clon-repositorio # Clonación y colaboración
 
-├── 5-practica-fork
+├── 5-practica-fork # Fork y Pull Requests
 
-├── 6-proyecto-principal
+├── 6-proyecto-principal # Prácticas con ramas y gestión de archivos
 
-├── 7-submodulos-practica
+├── 7-submodulos-practica # Trabajo con submódulos
 
 
 ---
@@ -67,7 +67,7 @@ Este repositorio tiene como objetivo mostrar mi proceso de aprendizaje y dominio
 
 ## 🚀 Autor
 
-**(https://github.com/GabyB73)**  
+**[Gabriela Bustamante](https://github.com/GabyB73)**  
 Programadora Backend | Apasionada del software libre y el código limpio  
-[🔗 https://www.linkedin.com/in/gabriela-bustamante-] · [📧 geb.beg.73@gmail.com]
+
 
