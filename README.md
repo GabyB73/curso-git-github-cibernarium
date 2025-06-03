@@ -65,7 +65,7 @@ Este repositorio tiene como objetivo mostrar mi proceso de aprendizaje y dominio
 
 ---
 
-## 🚀 Autor
+## 🚀 Autora
 
 **[Gabriela Bustamante](https://github.com/GabyB73)**  
 Programadora Backend | Apasionada del software libre y el código limpio  
